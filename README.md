@@ -8,7 +8,7 @@ I am a backend developer, interested in audio/video solutions and crafting syste
 - Crafting robust multimedia pipelines with **GStreamer**.  
 
 🚀 **Technologies & Tools**  
-- **Programming Languages**: C++, Rust, Go, and JavaScript.  
+- **Programming Languages**: C++, Rust and Go.
 - **Frameworks**: GStreamer, Qt, Iced.  
 - **Systems**: Windows, Ubuntu.  
 
